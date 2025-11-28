@@ -26,7 +26,3 @@ It uses GPT-based retrieval augmented generation (RAG) to provide accurate answe
 5. Most relevant chunks retrieved  
 6. GPT generates final answer  
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run main.py
